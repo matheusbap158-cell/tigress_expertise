@@ -1,0 +1,206 @@
+COPY DA LANDING PAGE: TIGRESS EXPERTISE ELÉTRICA
+Varginha/MG. Eletricista residencial, predial e industrial.
+Fontes dos dados: Google Meu Negócio (5,0 com 46 avaliações), bio do Instagram (@tigress_expertise), publicação do proprietário no Google e fotos enviadas.
+Tom: técnico, seguro, direto, com energia. Referência de estrutura: modelo de demo da agência (não foi indicado site de referência).
+
+======================================================
+CABEÇALHO
+======================================================
+Nome da marca: Tigress Expertise Elétrica
+Menu: Serviços | Trabalhos | Avaliações | Atendimento
+Botão do topo: Pedir orçamento (dourado, abre o WhatsApp)
+
+======================================================
+1. HERO
+======================================================
+Selo: 5,0 no Google · 46 avaliações
+Título: Precisão que protege. Cuidado que entrega.
+Subtítulo: Eletricista residencial, predial e industrial em Varginha e região.
+Texto: A Tigress Expertise Elétrica cuida da parte elétrica da sua casa, prédio ou empresa com atenção a cada conexão, a cada disjuntor e a cada detalhe. Você conta o que precisa e recebe um orçamento claro.
+Botão principal: Pedir orçamento pelo WhatsApp
+Botão secundário: Ver trabalhos
+Etiquetas: Empresa de empreendedoras | Acolhe a comunidade LGBTQ+
+
+Faixa de números:
+5,0 | nota no Google
+46 | avaliações de clientes
+3 | frentes de atuação: residencial, predial e industrial
+R$ 80 | instalação de chuveiro, a partir de
+
+======================================================
+2. SOBRE
+======================================================
+Seção: Sobre a Tigress
+Título: Na parte elétrica, o que não aparece é o que mais importa.
+Texto: Fiação, disjuntores e conexões bem feitos são o que mantêm a casa, o prédio e a empresa funcionando com segurança. É esse o cuidado que a Tigress Expertise Elétrica coloca em cada serviço, de uma troca de chuveiro a um painel de comando.
+Assinatura: Por [NOME DA PROFISSIONAL A CONFIRMAR] · [ANOS DE EXPERIÊNCIA A CONFIRMAR] · [REGISTRO PROFISSIONAL A CONFIRMAR]
+
+======================================================
+3. SERVIÇOS (abas: Residencial, Predial, Industrial)
+======================================================
+Seção: Serviços
+Título: Do chuveiro ao painel de comando
+Subtítulo: Escolha a frente e veja o que a Tigress faz.
+
+Aba Residencial
+Título: Casa e apartamento com instalação segura
+Texto: Instalação e troca de chuveiro, quadro de disjuntores e iluminação, com verificação elétrica antes de ligar.
+Lista:
+- Instalação e troca de chuveiro, a partir de R$ 80,00
+- Verificação de fiação, disjuntor e conexões
+- Quadro de distribuição e disjuntores
+- Iluminação: luminárias e pontos de luz
+Botão: Pedir orçamento residencial
+
+Aba Predial
+Título: Prédios e espaços comerciais com a parte elétrica em ordem
+Texto: Infraestrutura, pontos de energia e automação para obras, salas e ambientes comerciais.
+Lista:
+- Passagem de fiação e infraestrutura em obras
+- Pontos de luz e de energia
+- Quadros de distribuição
+- Módulos de automação
+Botão: Pedir orçamento predial
+
+Aba Industrial
+Título: Painéis e infraestrutura para o ambiente industrial
+Texto: Montagem de painéis de comando, eletrocalhas em galpões e medições com instrumento.
+Lista:
+- Painéis de comando
+- Eletrocalhas e cabeamento em galpões
+- Medições com miliohmímetro
+Botão: Pedir orçamento industrial
+
+======================================================
+4. TRABALHOS (galeria)
+======================================================
+Seção: Trabalhos
+Título: Por dentro do trabalho da Tigress
+Subtítulo: Quadros, painéis, galpões e ferramentas. Toque em uma foto para ampliar.
+Legendas:
+1. Quadro com módulos de automação
+2. Bancada de ferramentas
+3. Eletrocalhas em galpão
+4. Luminárias de parede
+5. Medição com miliohmímetro
+6. Quadro de disjuntores
+7. Ponto de fiação em obra
+8. Painel de comando
+
+======================================================
+5. POR QUE A TIGRESS
+======================================================
+Seção: Diferenciais
+Título: Segurança que dá para ver no orçamento
+Itens:
+- Orçamento transparente: você sabe o que está contratando.
+- Atendimento rápido e profissional, da conversa ao serviço.
+- Verificação elétrica antes de instalar: fiação, disjuntor e conexões.
+- Serviço residencial e comercial, em Varginha e região.
+
+======================================================
+6. COMO FUNCIONA
+======================================================
+Seção: Como funciona
+Título: Do WhatsApp ao serviço feito, em 3 passos
+Passo 1: Você chama no WhatsApp. Conte o que precisa e, se puder, mande uma foto do local.
+Passo 2: Você recebe o orçamento. Claro, antes de fechar o serviço.
+Passo 3: O serviço é feito com cuidado. Com verificação de fiação, disjuntor e conexões.
+Botão: Começar pelo WhatsApp
+
+======================================================
+7. QUANDO CHAMAR UMA ELETRICISTA
+======================================================
+Seção: Sinais de alerta
+Título: Na dúvida, chame quem entende
+Subtítulo: Alguns sinais pedem atenção logo.
+Itens:
+- Disjuntor que desarma com frequência
+- Tomada, plugue ou fio quente
+- Cheiro de queimado
+- Fios expostos ou emendas improvisadas
+- Chuveiro novo para instalar ou trocar
+- Reforma ou equipamento novo que exige mais da instalação
+Aviso: Se sentir cheiro de queimado, desligue o disjuntor geral, se for seguro, e chame uma profissional.
+Botão: Falar com a Tigress agora
+
+======================================================
+8. PEÇA SEU ORÇAMENTO (montador de mensagem)
+======================================================
+Seção: Orçamento
+Título: Conte o que você precisa em 10 segundos
+Subtítulo: Escolha as opções e a mensagem já sai pronta no WhatsApp.
+Campo 1, rótulo: Onde é o serviço
+Opções: Casa ou apartamento | Prédio ou comércio | Indústria ou galpão
+Campo 2, rótulo: O que você precisa
+Opções: Instalar ou trocar chuveiro | Quadro de disjuntores | Iluminação | Automação ou painel de comando | Outro serviço elétrico
+Botão: Enviar pelo WhatsApp
+Aviso: A mensagem é só um ponto de partida. Você pode editar antes de enviar.
+
+======================================================
+9. AVALIAÇÕES
+======================================================
+Seção: Avaliações
+Título: Quem chamou, recomenda
+Subtítulo: 5,0 no Google, com 46 avaliações
+Avaliação 1: Orçamento feito, trabalho fechado e realizado no melhor prazo possível.
+Avaliação 2: Ótimo atendimento e prestação de serviço com profissionalismo!
+Avaliação 3: Eu indico a qualquer pessoa que procura uma profissional na área elétrica.
+Autor de cada uma: Avaliação no Google
+(As aspas são o símbolo decorativo do design; o texto das avaliações é literal do Google.)
+Botão: Ver todas as avaliações no Google
+
+======================================================
+10. ATENDIMENTO
+======================================================
+Seção: Atendimento
+Título: Atendimento em Varginha e região
+Texto: A Tigress atende em Varginha/MG e região. Chame no WhatsApp para combinar o melhor dia.
+Localização: Centro, Varginha/MG
+Horário de atendimento: [HORÁRIO A CONFIRMAR]
+Botões: Chamar no WhatsApp | Instagram | Ver no Google Maps | Mais links
+
+======================================================
+11. CTA FINAL
+======================================================
+Título: Vamos resolver a parte elétrica com segurança?
+Subtítulo: Precisão que protege. Cuidado que entrega.
+Texto: Fale com a Tigress Expertise Elétrica e receba um orçamento claro.
+Botão: Pedir orçamento pelo WhatsApp
+
+======================================================
+RODAPÉ
+======================================================
+Nome: Tigress Expertise Elétrica
+Resumo: Eletricista residencial, predial e industrial em Varginha/MG.
+Contato: WhatsApp (35) 99742-7372 | Instagram @tigress_expertise
+Localização: Centro, Varginha/MG
+Crédito: Site produzido por Connect Alpha
+
+======================================================
+MENSAGEM PRÉ-PREENCHIDA DO WHATSAPP
+======================================================
+Olá! Vim pelo site da Tigress Expertise Elétrica e gostaria de pedir um orçamento.
+(Número: 5535997427372, do arquivo "Link do Whatsapp.txt")
+
+Mensagens dos botões das abas:
+- Residencial: Olá! Vim pelo site da Tigress Expertise Elétrica e gostaria de um orçamento residencial.
+- Predial: Olá! Vim pelo site da Tigress Expertise Elétrica e gostaria de um orçamento predial.
+- Industrial: Olá! Vim pelo site da Tigress Expertise Elétrica e gostaria de um orçamento industrial.
+Mensagem do montador (seção Orçamento): Olá! Vim pelo site da Tigress Expertise Elétrica. Local do serviço: [opção 1]. Preciso de: [opção 2]. Podem me passar um orçamento?
+Textos de interface (fora da copy de venda): Pular para o conteúdo | Sua mensagem | Escolha uma opção | Escolha uma opção para continuar. | Fechar | Foto anterior | Próxima foto | Ampliar foto
+
+======================================================
+PENDÊNCIAS (nada disso foi inventado)
+======================================================
+- Nome da profissional (a bio cita @karlinha_kk32; não está confirmado se é a proprietária)
+- Anos de experiência e registro profissional (CREA/CFT)
+- Horário de atendimento (o Maps só mostra "Fecha 23:00")
+- Endereço completo (o Maps lista um apartamento; foi deixado só "Centro, Varginha/MG")
+- Confirmar o valor "a partir de R$ 80,00" para chuveiro (publicação de 31/05/2026 no Google)
+- Confirmar a lista de serviços por frente (residencial, predial, industrial): foi montada a partir da bio e das 8 fotos
+- Confirmar que as 8 fotos são de trabalhos da Tigress e se podem ser exibidas
+- O texto do processo (mandar foto do local, orçamento antes de fechar, combinar o melhor dia) é proposta de fluxo: validar com a Tigress
+- Etiquetas "Empresa de empreendedoras" e "Acolhe a comunidade LGBTQ+" vêm do Maps: confirmar que ela quer exibi-las
+- Nomes de quem avaliou (as 3 avaliações entram como "Avaliação no Google")
+- Logo: o arquivo "ChatGPT Image" diz "ENERGY DRINK" e por isso só a pata com o raio foi usada; o logo original (foto do perfil) tem 150 px. Pedir o arquivo em alta resolução
